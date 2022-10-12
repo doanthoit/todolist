@@ -1,0 +1,17 @@
+{
+    "name": "admin/todolist",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThoLD",
+            "email": "doanthoit@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
